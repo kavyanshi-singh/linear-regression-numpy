@@ -10,6 +10,6 @@
 | 06_palindrome.py | Strings |
 | 07_word_counter.py | Strings, Dictionaries |
 | 08_todo_list.py | Lists, Loops |
-| 09_student_grade_tracher.py | OOP, Classes |
+| 09_student_grade_tracker.py | OOP, Classes |
 | exploration_script.py | NumPy basics |
 | titanic.ipynb | Pandas
