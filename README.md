@@ -1,15 +1,22 @@
-# Python-Exercises
-11 beginner Python programs built while learning core concepts
-| File | Concept practiced |
-|----- | ------------------ |
-| 01_calculator.py| Functions, Match case |
-| 02_number_guessing.py | Loops, Random module |
-| 03_fizz_buzz.py | Loops, Conditionals |
-| 04_temp_converter.py | Functions |
-| 05_simple_quiz.py | Lists, Loops |
-| 06_palindrome.py | Strings |
-| 07_word_counter.py | Strings, Dictionaries |
-| 08_todo_list.py | Lists, Loops |
-| 09_student_grade_tracker.py | OOP, Classes |
-| exploration_script.py | NumPy basics |
-| titanic.ipynb | Pandas
+Linear regression from scratch
+
+Implemented linear regression using only NumPy and Matplotlib - no sklearn.
+
+What it does?
+- Computes model output using w and b parameters
+- Calculates cost using mean squared error
+- Runs gradient descent to find optimal w and b
+- Final result: w=208.46, b=59.27
+
+What i learned:
+- How gradient descent actually works by coding it step by step
+- How cost function measures how wrong predictions are
+- How the regression line fits data points through iteration
+
+How to run:
+- Open gradient_descent.ipynb in Jupyter
+- Run all cells top to bottom
+- Final graph shows prediction line vs actual values
+
+Tech used:
+Python * NumPy * Matplotlib * Jupyter Notebook
